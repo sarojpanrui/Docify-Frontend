@@ -1,1 +1,1 @@
-export const api_base_url = "https://docifyapp-backend.onrender.com/";
+export const api_base_url = "https://docifyapp-backend.onrender.com";
